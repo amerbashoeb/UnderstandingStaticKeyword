@@ -1,0 +1,2 @@
+# UnderstandingStaticKeyword
+For personal learning
